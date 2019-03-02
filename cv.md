@@ -1,7 +1,10 @@
 # Litvinenko Yaroslav - Middle Front-End-Developer
 Country: Kazakhstan
+
 City: Astana
+
 tel: +7701 748 32 ..
+
 mail: gremsi@yandex.kz
 
 # About me
