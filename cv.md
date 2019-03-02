@@ -7,7 +7,7 @@ tel: +7701 748 32 ..
 
 mail: gremsi@yandex.kz
 
-# About me
+# About me 
 Hello, 
 I'm Yaroslav Litvinenko from Astana. I'm 35 years old. 
 Currently I'm working at the company called NULITS, as a Front End Developer. 
@@ -37,7 +37,7 @@ I intrest in fishing, travelling and discovering new places.
         fontsize: $i * 1.4em;
     }
 }
-```
+``` 
 ## Random JS
 
 ```
