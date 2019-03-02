@@ -24,7 +24,7 @@ I intrest in fishing, travelling and discovering new places.
  - **Tasks:** Jira, Confluense, OTRS, Trello
  - **Build:** wordpress - Understrap, IBM Websphere - gulp+Smartgrid
  - Responsive Web Design
- - UI/UX knowledge 
+ - UI/UX knowledge  
  - Photoshop/Illustrator/Zeplin
  - BD: MySQL
 
