@@ -44,7 +44,7 @@ I intrest in fishing, travelling and discovering new places.
 if (screen.width > 601) document.write ('<script src="anyone.js"></sc' + 'ript>');
 //else if (screen.width <= 600) document.write ('<script src="anyone.js"></sc' + 'ript>'); 
 ```
-
+ 
 # Experience
 * https://nulits.nu.edu.kz/
 * https://admissions.nu.edu.kz/wps/portal
