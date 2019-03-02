@@ -4,7 +4,7 @@ City: Astana
 tel: +7701 748 32 ..
 mail: gremsi@yandex.kz
 
-#About me
+# About me
 Hello, 
 I'm Yaroslav Litvinenko from Astana. I'm 35 years old. 
 Currently I'm working at the company called NULITS, as a Front End Developer. 
@@ -12,7 +12,7 @@ I like improve my skills in coding, open source, and the web platform.
 I have 4 years commersial experience working with clients our company, providing responsive front-end development and WordPress and IBM Websphere integrations.
 I intrest in fishing, travelling and discovering new places.
 
-#Skills (used in projects):
+# Skills (used in projects):
  - HTML5/CSS3
  - JS/Jquery
  - **Layout:** (div(float, flex, grid(basic)), table(email template), )
@@ -26,8 +26,8 @@ I intrest in fishing, travelling and discovering new places.
  - BD: MySQL
 
 
-#Code examples
-##Random SCSS
+# Code examples
+## Random SCSS
 ```
 @for $i from 1 through 6 {
     h#{7 - $i} {
@@ -35,24 +35,24 @@ I intrest in fishing, travelling and discovering new places.
     }
 }
 ```
-##Random JS
+## Random JS
 
 ```
 if (screen.width > 601) document.write ('<script src="anyone.js"></sc' + 'ript>');
 //else if (screen.width <= 600) document.write ('<script src="anyone.js"></sc' + 'ript>'); 
 ```
 
-#Experience
+# Experience
 * https://nulits.nu.edu.kz/
 * https://admissions.nu.edu.kz/wps/portal
 * https://nusom.nu.edu.kz/
 * https://ehelf.nu.edu.kz/
 
-#Education
+# Education
 * https://www.freecodecamp.org/fccd3634fe2-acea-451e-b055-c3670e85b527
 * https://www.codecademy.com/2warnok
 * https://www.duolingo.com/fVj96
 
-#English
+# English
 My level english somewhere A2 ~ B1. I improve myself English to level B1-B2.
 
