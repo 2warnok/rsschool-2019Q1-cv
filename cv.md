@@ -57,5 +57,5 @@ if (screen.width > 601) document.write ('<script src="anyone.js"></sc' + 'ript>'
 * https://www.duolingo.com/fVj96
 
 # English
-My level english somewhere A2 ~ B1. I improve myself English to level B1-B2.
+The knowledge of my english is A2 level. Now i hardly study english to improve the level higher.
 
