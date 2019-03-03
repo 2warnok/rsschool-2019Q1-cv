@@ -46,15 +46,15 @@ if (screen.width > 601) document.write ('<script src="anyone.js"></sc' + 'ript>'
 ```
  
 # Experience
-* https://nulits.nu.edu.kz/
-* https://admissions.nu.edu.kz/wps/portal
-* https://nusom.nu.edu.kz/
-* https://ehelf.nu.edu.kz/
+* [nulits.nu.edu.kz](https://nulits.nu.edu.kz/)
+* [admissions.nu.edu.kz](https://admissions.nu.edu.kz/wps/portal)
+* [nusom.nu.edu.kz](https://nusom.nu.edu.kz/)
+* [ehelf.nu.edu.kz](https://ehelf.nu.edu.kz/)
 
 # Education
-* https://www.freecodecamp.org/fccd3634fe2-acea-451e-b055-c3670e85b527
-* https://www.codecademy.com/2warnok
-* https://www.duolingo.com/fVj96
+* [freecodecamp.org](https://www.freecodecamp.org/fccd3634fe2-acea-451e-b055-c3670e85b527)
+* [codecademy.com](https://www.codecademy.com/2warnok)
+* [duolingo.com](https://www.duolingo.com/fVj96)
 
 # English
 The knowledge of my english is A2 level. Now i hardly study english to improve the level higher.
