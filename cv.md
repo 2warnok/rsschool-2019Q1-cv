@@ -1,4 +1,6 @@
 # Litvinenko Yaroslav - Middle Front-End-Developer
+![Photo Litvinenko Yaroslav](https://hsto.org/getpro/moikrug/uploads/user/636/472/860/avatar/medium_65a583581d73e0501d371d852ce48277.jpeg)
+
 *Country*: Kazakhstan
 
 *City*: Astana
